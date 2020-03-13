@@ -1,11 +1,12 @@
 # APAG - SPGA
-# Associazione Preservazione Arti Grafiche
-# campo: videoludico
-# ====
-# Society for the Preservation of Graphic Art
-# field: videoludic
+Associazione Preservazione Arti Grafiche
+campo: videoludico
+====
+Society for the Preservation of Graphic Art
+field: videoludic
 
-The APAG project
+
+# The APAG project
 You can open issues with request
 The project runs in our free time so be patient
 
